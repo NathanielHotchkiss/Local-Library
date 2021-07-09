@@ -11,11 +11,7 @@ A Thinkful project, we were tasked with creating a variety of complex functions 
 ## Accounts Page
 ![A screen shot of the accounts page](images/accounts.png)  
 
-## Link
-
-https://nathanielhotchkiss.github.io/Local-Library/
-
 ## Technology
 
-Built with Javascript  
-Styled with Bootstrap
+Javascript  
+Bootstrap
